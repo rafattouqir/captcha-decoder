@@ -47,7 +47,7 @@
 		<dependency>
 			<groupId>com.google.code.guice</groupId>
 			<artifactId>guice</artifactId>
-			<version>${verison.guice}</version>
+			<version>${version.guice}</version>
 		</dependency>
 	</dependencies>
 
@@ -58,7 +58,7 @@
 		<version.commons-lang>2.4</version.commons-lang>
 		<version.log4j>1.2.14</version.log4j>
 		<version.junit>4.4</version.junit>
-		<verison.guice>2.0</verison.guice>
-		<!--<verison.guice>2.0.1</verison.guice> -->
+		<version.guice>2.0</verison.guice>
+		<!--<version.guice>2.0.1</version.guice> -->
 	</properties>
 </project>
